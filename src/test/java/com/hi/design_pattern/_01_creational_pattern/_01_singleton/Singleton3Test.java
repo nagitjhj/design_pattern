@@ -1,4 +1,4 @@
-package com.hi.design_pattern.singleton;
+package com.hi.design_pattern._01_creational_pattern._01_singleton;
 
 import com.hi.design_pattern._01_creational_patterns._01_singleton.Singleton3;
 import org.junit.jupiter.api.Test;

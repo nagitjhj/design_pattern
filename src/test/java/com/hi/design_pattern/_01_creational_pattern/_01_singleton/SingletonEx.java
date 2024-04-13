@@ -1,6 +1,5 @@
-package com.hi.design_pattern.singleton;
+package com.hi.design_pattern._01_creational_pattern._01_singleton;
 
-import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.Bean;
