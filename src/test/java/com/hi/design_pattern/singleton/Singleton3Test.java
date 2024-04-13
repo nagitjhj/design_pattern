@@ -1,6 +1,6 @@
 package com.hi.design_pattern.singleton;
 
-import org.assertj.core.api.Assertions;
+import com.hi.design_pattern._01_creational_patterns._01_singleton.Singleton3;
 import org.junit.jupiter.api.Test;
 
 import java.lang.reflect.Constructor;

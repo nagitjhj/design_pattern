@@ -1,4 +1,4 @@
-package com.hi.design_pattern.singleton;
+package com.hi.design_pattern._01_creational_patterns._01_singleton;
 
 public class Singleton1 {
     //만약 Singleton을 생성하는데 큰 비용이 안 든다면 미리 만들어두는 방법도 있음

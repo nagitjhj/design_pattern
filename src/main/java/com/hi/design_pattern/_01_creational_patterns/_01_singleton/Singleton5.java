@@ -1,4 +1,4 @@
-package com.hi.design_pattern.singleton;
+package com.hi.design_pattern._01_creational_patterns._01_singleton;
 
 public enum Singleton5 {
     //리플렉션에 안전한 코드 앤드 직렬화 역직렬화에도 안전함

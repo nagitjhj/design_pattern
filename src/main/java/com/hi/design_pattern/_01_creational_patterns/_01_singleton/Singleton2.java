@@ -1,4 +1,4 @@
-package com.hi.design_pattern.singleton;
+package com.hi.design_pattern._01_creational_patterns._01_singleton;
 
 public class Singleton2 {
     //double checked locking 기법으로 만들어보자

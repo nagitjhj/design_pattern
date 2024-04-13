@@ -1,5 +1,6 @@
 package com.hi.design_pattern.singleton;
 
+import com.hi.design_pattern._01_creational_patterns._01_singleton.SingletonMoney;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
