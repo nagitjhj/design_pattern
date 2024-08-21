@@ -1,0 +1,1 @@
+�ship = Ship{name='키움질주SHIP', color='null', price=null, wheel=com.hi.design_pattern._01_creational_patterns._03_abstract_factory.product.WhiteWheel@24bdb479, anchor=com.hi.design_pattern._01_creational_patterns._03_abstract_factory.product.WhiteAnchor@7e3f95fe}
